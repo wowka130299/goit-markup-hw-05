@@ -999,7 +999,7 @@ padding: 8px 16px;
 
 
 .span-chck {
-    display: inline-flex;
+    display:inline-flex;
   align-items: center;
   justify-content: center;
  width: 16px;
