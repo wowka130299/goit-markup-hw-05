@@ -739,14 +739,13 @@ color:#FFF;
 
 
 .footer-btn {
-    font-family: 'Roboto', sans-serif;
+    font-family:'Roboto', sans-serif;
     padding: 8px 24px;
     border-radius: 4px;
     background:  #4D5AE5;
     border: none;
     color:  #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
